@@ -198,7 +198,7 @@ class DatabasePM(Frame):
         conn.close()
 
 root = Tk()
-root.title("Password Manager by Jiin Kim")
+root.title("WebKey Manager")
 root.configure(background = "#323231")
 root.geometry("600x400")
 app = DatabasePM(root)
