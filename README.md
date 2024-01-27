@@ -1,5 +1,5 @@
 # WebKey Manager
-## sqlite password manager
+## SQLite password manager
 
 WebKey Manager is a simple Python application that allows you to manage website credentials using SQLite as the backend database.
 
